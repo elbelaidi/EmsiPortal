@@ -119,3 +119,18 @@ The project includes a `docker-compose.yml` file for containerized deployment of
 ---
 
 This README provides a comprehensive overview of the Emsi Portal project, its tools, architecture, and usage instructions.
+
+######################## Screens ########################
+
+![11](https://github.com/user-attachments/assets/9ec109c9-7d71-4aa7-83c4-846448ed7d78)
+![10](https://github.com/user-attachments/assets/a7e1c8cc-9134-43da-a5aa-c4b2a4ab6dca)
+![9](https://github.com/user-attachments/assets/cbc04c2c-e2d0-4160-bdcd-9c54a071d987)
+![8](https://github.com/user-attachments/assets/4f0417c0-a099-43ad-9ff8-d4780cbe0515)
+![7](https://github.com/user-attachments/assets/1148e2f8-5edb-45c6-a37b-d6b6c821ab11)
+![6](https://github.com/user-attachments/assets/c9da9c73-df85-4c74-bb6f-a0812d202a59)
+![5](https://github.com/user-attachments/assets/aa68be9c-df72-4141-ace6-c355f8eba135)
+![4](https://github.com/user-attachments/assets/d2d98fe0-723f-4d46-809a-d94927c3cb3c)
+![3](https://github.com/user-attachments/assets/c03dd004-10f9-465e-bdc6-0c996438658c)
+![2](https://github.com/user-attachments/assets/e32c6032-86f6-4ad7-b3a7-d8598bb59418)
+![1](https://github.com/user-attachments/assets/e44b7d92-5bad-483d-9361-8051bd0ff867)
+![12](https://github.com/user-attachments/assets/238f3f97-5b96-4538-937f-7f3e4486fa6e)
