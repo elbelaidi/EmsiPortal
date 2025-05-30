@@ -1,7 +1,9 @@
 # Emsi Portal Web Application
 
 ## Project Overview
-Emsi Portal is a web application designed to manage student information, courses, absences, and user authentication for an educational institution. It features a React + TypeScript frontend with a rich UI built using Radix UI components and Tailwind CSS, and an Express backend API connected to a PostgreSQL database. The app supports role-based access for students and supervisors, file uploads for absence documents, and real-time data management.
+Emsi Portal is a web application designed to manage student information, courses, absences, and user authentication for an educational institution. It features a React + TypeScript frontend with a rich UI built using Radix UI components and Tailwind CSS, and an Express backend API connected to a PostgreSQL database.
+The app supports role-based access for students and supervisors, file uploads for absence documents, and real-time data management. It also includes a built-in chatbot to assist users with navigation and FAQs, and an email-sending agent for automatic notifications, such as absence approvals and account-related messages.
+
 
 ## Technology Stack and Tools
 - **Frontend:**
